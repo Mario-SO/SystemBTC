@@ -84,6 +84,7 @@ export default function Home({ data }: PageProps<Price | null>) {
     <div>
       <div className="head">
         <head>
+          <title>System BTC</title>
           <link rel="stylesheet" href="https://unpkg.com/@sakun/system.css" />
         </head>
       </div>
