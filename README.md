@@ -1,12 +1,3 @@
-# fresh project
-
-### Usage
-
-Start the project:
-
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
 # SystemBTC
+
+Would like to build a UI for a simple smart contract using this CSS library: [System CSS](https://sakofchit.github.io/system.css/)
